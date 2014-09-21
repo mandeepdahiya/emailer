@@ -1,0 +1,8 @@
+adapter: mysql
+database: emailer
+username: root
+password: root
+host:      localhost
+encoding: utf8
+pool: 10
+socket: /var/run/mysqld/mysqld.sock

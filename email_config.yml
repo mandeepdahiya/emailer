@@ -1,0 +1,7 @@
+user_name: 'mandeepiit07'
+password: 'password'
+domain: 'ibl.infibeam.com'
+address: 'smtp.sendgrid.net'
+port: 587
+authentication: 'plain'
+enable_starttls_auto_email: true
